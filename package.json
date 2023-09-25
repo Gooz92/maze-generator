@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "serve lib"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
